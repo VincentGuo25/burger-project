@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+#firebase
+/.firebase
+.firebaserc
+
 # production
 /build
 
