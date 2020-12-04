@@ -11,7 +11,7 @@
 #firebase
 /.firebase
 .firebaserc
-.firebase.json
+firebase.json
 
 # production
 /build
