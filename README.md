@@ -2,7 +2,7 @@
 
 A burger-building and ordering web application built with React. Customize your burger ingredients, review your order, and submit your contact details through an interactive ordering workflow.
 
-**[🚀 Live Demo](https://react-my-burger-ce22a.firebaseapp.com/))**
+**[🚀 Live Demo](https://react-my-burger-ce22a.firebaseapp.com/)**
 
 ## ✨ Features
 
